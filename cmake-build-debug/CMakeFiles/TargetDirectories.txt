@@ -1,0 +1,3 @@
+/home/mosheper/CLionProjects/openJpeg/cmake-build-debug/CMakeFiles/openJpeg.dir
+/home/mosheper/CLionProjects/openJpeg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mosheper/CLionProjects/openJpeg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
